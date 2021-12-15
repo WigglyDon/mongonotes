@@ -12,4 +12,6 @@ a replica set is a couple of related mongodb instances that store the same data
 
 Made new testDB with atlas for mongo uni
 
+successfully connected test user to db
+
 
