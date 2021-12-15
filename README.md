@@ -14,4 +14,9 @@ Made new testDB with atlas for mongo uni
 
 successfully connected test user to db
 
+all json data can be natively used to store data in mongodb
+
+what is bson?
+bson is binary converted json
+
 
