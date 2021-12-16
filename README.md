@@ -19,4 +19,8 @@ all json data can be natively used to store data in mongodb
 what is bson?
 bson is binary converted json
 
+import and export data to an atlas cluster
+srv string -- secure??
+
+
 
