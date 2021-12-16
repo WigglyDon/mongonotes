@@ -30,6 +30,20 @@ mongo import is part of the mongodb database tools package
 
 in general, the versions of import and export (mongo) should match. 
 
+issuing a query requires the use of valid json
+
+return documents contain the field value pairs requested
+
+it
+  iterates through a cursor
+  
+cursor
+  a pointer to a result set of a query
+ 
+pointer
+  a direct address of the memory location
+ 
+
 
 
 
