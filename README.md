@@ -26,6 +26,14 @@ the mongoimport tool will import different content from Extended JSON, CSV, TSV,
 
 you need you run mongo import from the system's command line, not the mongo shell.
 
+mongo import is part of the mongodb database tools package
+
+in general, the versions of import and export (mongo) should match. 
+
+
+
+
+
 
 
 
