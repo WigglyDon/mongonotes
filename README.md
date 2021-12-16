@@ -42,6 +42,8 @@ cursor
  
 pointer
   a direct address of the memory location
+  
+going through practice drills on mongo uni
  
 
 
