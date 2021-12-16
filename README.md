@@ -22,5 +22,11 @@ bson is binary converted json
 import and export data to an atlas cluster
 srv string -- secure??
 
+the mongoimport tool will import different content from Extended JSON, CSV, TSV, export created by mongoexport.
+
+you need you run mongo import from the system's command line, not the mongo shell.
+
+
+
 
 
